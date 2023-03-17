@@ -1,0 +1,13 @@
+{
+  "name": "javascript-programacao-orientada-a-objetos",
+  "version": "1.0.0",
+  "description": "#### Entendendo a Orientação a Objetos   - Apresentação   - Conceito de OO   - Modelando o projeto #### Funções e protótipos   - OO com JavaScript   - Entendendo o This   - Herança de protótipo   - Cadeia de protótipo   - Object.create() vs new #### Classes e herança   - Estrutura da classe   - Herança de classe   - Adicionando métodos #### Encapsulamento   - Atributos privados   - Métodos privados   - Getters   - Setters #### Polimorfismo e SOLID   - Polimorfismo   - SOLID   - Conclusão",
+  "type": "module",
+  "main": "aula_005_User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
