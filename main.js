@@ -16,3 +16,11 @@ console.log(`Sobrenome admin: ${admin.sobrenome}`);
 admin.nome = "João José Emiliano";
 console.log(`\nNome admin: ${admin.nome}`);
 console.log(`Sobrenome admin: ${admin.sobrenome}`);
+
+console.log("-=".repeat(20));
+
+const docente = new Docente("Dani", "Goncalves", "d@d.com", "2022-01-01")
+console.log(docente.exibirInfos())
+docente.nome = "Dani Herculano"
+console.log(docente.nome)
+console.log(docente.sobrenome)
