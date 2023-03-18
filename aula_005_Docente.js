@@ -9,7 +9,7 @@ export default class Docente extends User {
     role = "docente",
     ativo = true
   ) {
-    super(nome, email, nascimento, role, ativo);
+    super(nome, sobrenome, email, nascimento, role, ativo);
   }
 
   aprovaEstudante(estudante, curso) {
